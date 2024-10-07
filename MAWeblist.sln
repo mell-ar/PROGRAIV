@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAWeblist", "MAWeblist.csproj", "{041BB075-2606-42A6-983E-088F30C9099F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041BB075-2606-42A6-983E-088F30C9099F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041BB075-2606-42A6-983E-088F30C9099F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041BB075-2606-42A6-983E-088F30C9099F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041BB075-2606-42A6-983E-088F30C9099F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73060B9B-5678-44B1-A9ED-E23DA809BF02}
+	EndGlobalSection
+EndGlobal
